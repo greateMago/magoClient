@@ -1,0 +1,2 @@
+# projectMago
+Just do it.
